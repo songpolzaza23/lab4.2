@@ -74,6 +74,8 @@ class DessertTimer(lifecycle: Lifecycle): LifecycleObserver{
         // In this case, no looper is defined, and it defaults to the main or UI thread.
     }
 
+    @OnLifecycleEvent(Lifecycle.Event.ON_STOP)
+
     fun stopTimer() {
         // Removes all pending posts of runnable from the handler's queue, effectively stopping the
         // timer

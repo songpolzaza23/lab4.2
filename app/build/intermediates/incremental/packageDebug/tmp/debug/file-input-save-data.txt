@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Sep 25 17:44:46 GMT+07:00 2019
+#Wed Sep 25 18:04:07 GMT+07:00 2019
 0.baseType=DIRECTORY
 0.base=D\:\\Subject\\Sub_Mobile2\\GitAndriod\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex
